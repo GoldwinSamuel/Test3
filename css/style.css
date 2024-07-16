@@ -301,6 +301,7 @@
                 border-top-right-radius:30px;
                 background-color:white;
                 overflow:hidden;
+		transition: .9s all;
             }
             .solution1:hover{
                 border-radius: 0;
